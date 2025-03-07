@@ -24,8 +24,8 @@ A lightweight Java utility for finding files that match regex patterns, inspired
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/regex-finder.git
-   cd regex-finder
+   git clone https://github.com/jamesloh/RegexFinder.git
+   cd RegexFinder
    ```
 
 3. Make the file executable (Unix/Linux/macOS):
